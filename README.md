@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @XdpCS
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning algorithm
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in Blockchain
+- 🌱 I’m currently learning Blockchain.
 - 📫 How to reach me 451679250@qq.com
 
 <!---
