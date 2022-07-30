@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @XdpCS
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Blockchain.
+- 👀 I’m interested in Golang
+- 🌱 I’m currently learning Golang.
 - 📫 How to reach me 451679250@qq.com
 
 <!---
