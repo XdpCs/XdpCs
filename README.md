@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @XdpCS.
 - 👀 I’m interested in Golang、Blockchain、Solidity.
 - 🌱 I’m currently learning Golang、Blockchain、Solidity.
-- 📫 How to reach me 451679250@qq.com.
+- 📫 How to reach me xdpcsyy@gmail.com.
 
 <!---
 XdpCS/XdpCS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
