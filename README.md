@@ -11,8 +11,9 @@ You can click the Preview link to take a look at your changes.
 
 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=go,ts,js,java,docker,git,redis,graphql,github,idea,bash,jenkins,mysql&theme=dark&&perline=7)
+![skills](https://skillicons.dev/icons?i=go,ts,js,java,docker,git,redis,graphql,github,idea,bash,jenkins,mysql,mongodb,stackoverflow&theme=dark&&perline=9)
 
+👀 Languages
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XdpCS&show_icons=true&locale=en&layout=compact&hide=html&langs_count=20&theme=radical" />
 </p>
