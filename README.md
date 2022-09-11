@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @XdpCS.
+- 👋 Hi, I’m @Jacy Xu.
 - 👀 I’m interested in Golang、Blockchain、Solidity.
 - 🌱 I’m currently learning Golang、Blockchain、Solidity.
 - 📫 How to reach me xdpcsyy@gmail.com.
