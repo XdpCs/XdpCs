@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 🔧 Technologies
 
-![skills](https://skillicons.dev/icons?i=go,ts,js,java,docker,git,redis,graphql,github,idea,bash,jenkins,mysql,mongodb,stackoverflow&theme=dark&&perline=9)
+![skills](https://skillicons.dev/icons?i=go,ts,js,java,docker,git,redis,graphql,github,idea,bash,jenkins,mysql,mongodb,stackoverflow,discord,html,md,maven,spring,css&theme=dark&&perline=8)
 
 👀 Languages
 <p>
