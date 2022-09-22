@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 👀 Languages
 <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XdpCS&show_icons=true&locale=en&layout=compact&hide=html&langs_count=20&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=XdpCS&show_icons=true&locale=en&layout=compact&hide=c,html,stata,Tcl,Shell,BatchFile,CSS,SystemVerilog,Assembly&langs_count=15&theme=radical" />
 </p>
 
  🌱 Repository
