@@ -7,8 +7,9 @@
 </p>
 
 ##  📊 Github stats
-<summary>💻 GitHub Profile Stats</summary>
 
+
+<summary>💻 GitHub Profile Stats</summary>
   <br/>
     <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jacy Xu's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api/?username=XdpCS&count_private=true&show_icons=true&theme=radical&cache_seconds=1800" height="192px"/></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Jacy Xu's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XdpCS&show_icons=true&locale=en&layout=compact&hide=c,html,stata,Tcl,Shell,BatchFile,CSS,SystemVerilog,Assembly&langs_count=15&theme=radical" height="192px"/></a>
