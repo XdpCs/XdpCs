@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
 </h3>
 <p align="center">
-  <a href="https://github.com/XdpCs"><img src="https://readme-typing-svg.herokuapp.com?color=2196F3&pause=1000&center=true&vCenter=true&width=435&lines=Love+programming!;Solidity+Developer;Golang+Developer;1+years+experience"></a>
+  <a href="https://github.com/XdpCs"><img src="https://readme-typing-svg.herokuapp.com?color=2196F3&pause=1000&center=true&vCenter=true&width=435&lines=Love+programming!;Golang+Developer;1+years+experience"></a>
 </p>
 
 ##  📊 Github stats
