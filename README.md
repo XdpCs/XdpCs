@@ -15,6 +15,3 @@
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="XdpCS's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XdpCS&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=1F222E&title_color=F85D7F&icon_color=F8D866&hide=c,Assembly,stata,Tcl,Shell,BatchFile,SystemVerilog" height="192px"/></a>
   <br/>
   
-  
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Jacy Xu's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=XdpCS&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
