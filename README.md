@@ -1,7 +1,7 @@
 ### Hey 👋, I'm Alan Xu.
 
-<a href="https://github.com/XdpCs?tab=repositories">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=XdpCs&show_icons=true&title_color=000&icon_color=0099ff&count_private=true&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="50%"/>
+<a href="https://github.com/XdpCs">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=XdpCs&show_icons=true&include_all_commits=true&hide=issues&cache_seconds=1800&title_color=000&icon_color=0099ff&count_private=true&text_color=000&bg_color=ffffff&hide_border=true#gh-light-mode-only" width="50%"/>
 </a>
 
 * Golang Developer.
