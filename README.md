@@ -1,4 +1,4 @@
-### Hey 👋, I'm Alan Xu.
+## Hey , I'm Alan Xu 👋.
 
 <a href="https://github.com/XdpCs">
   <img align="right" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=XdpCs&show_icons=true&include_all_commits=true&hide=issues&cache_seconds=1800&title_color=000&icon_color=0099ff&count_private=true&text_color=000&bg_color=ffffff&hide_border=true" width="50%"/>
