@@ -1,8 +1,8 @@
 ## Hey, I'm Alan Xu 👋.
 
-I'm now trying different directions to find what I really like.
-* 🧐 Enjoy any project that uses the Go programming language.
-* 💻 With 4 years' Software Engineering education and 2 years' development working experience.
+I'm now trying different directions to find what I like.
+* 🧐 Enjoy any project that uses the Go and Solidity programming language.
+* 💻 With 4 years of Software Engineering education and 2 years of development working experience.
 * 🌱 Currently, learning English, Go, Solidity, Mysql, and Redis.
 * ✍🏻 Blog at [xdpcs.github.io](https://xdpcs.github.io).
 * 📧 Reach me by [sending me an email](mailto:xdpcsyy@gmail.com).
