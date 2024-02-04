@@ -6,6 +6,7 @@ I'm now trying different directions to find what I like.
 * 🌱 Currently, learning English, Go, Solidity, Mysql, and Redis.
 * ✍🏻 Blog at [xdpcs.github.io](https://xdpcs.github.io).
 * 📧 Reach me by [sending me an email](mailto:xdpcsyy@gmail.com).
+* 🧐 I am looking for a backend job.
 ---
 <details>
   <summary>Some of my Github Public Stats 💻</summary>
