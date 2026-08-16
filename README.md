@@ -11,8 +11,8 @@ I'm now trying different directions to find what I like.
   <br>
 
 <p align="center">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=XdpCs&hide_langs_below=1&theme=default&line_height=27&layout=compact&hide=c" />
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=XdpCs&show_icons=true&count_private=true&include_all_commits=true&line_height=21" alt="XdpCs's Github Stats" />
+<img align="center" src="./profile/top-langs.svg" />
+<img align="center" src="./profile/stats.svg" alt="XdpCs's Github Stats" />
 </p>
 </details>
 
