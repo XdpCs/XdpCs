@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Alan Xu&#39;s GitHub Stats, Rank: A</title>
-        <desc id="descId">Total Stars Earned: 175, Total Commits  : 2224, Total PRs: 522, Total Issues: 39, Contributed to (last year): 1</desc>
+        <desc id="descId">Total Stars Earned: 175, Total Commits  : 2227, Total PRs: 522, Total Issues: 39, Contributed to (last year): 1</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 36.848580187521755;
+        stroke-dashoffset: 36.829955321901586;
       }
     }
   
